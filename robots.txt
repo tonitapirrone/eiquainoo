@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jauheechi.leerichardson.net/sitemap.xml
